@@ -1,2 +1,5 @@
 # StockMarketPredictor
-Developed a Stock Market Predictor using Python to predict tomorrow’s S&amp;P 500 index price using historical stock data Trained a Random Forest Model and made predictions using backtesting, and added extra predictors to improve the model
+A Stock Market prediction model that utilizes a Random Forest Model to predict tomorrow's S&P 500 index price. This project uses historical stock data to forecast a prediction of the odds that the Stock Market Increases tomorrow.
+Libraries used:
+yfinance
+pandas
